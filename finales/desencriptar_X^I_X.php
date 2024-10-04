@@ -25,6 +25,7 @@ for ($i=0; $i < count($arrayCaracteres); $i++){
     }
 }
 
+
 echo "<br>";
 
 echo implode($primerPaso);
